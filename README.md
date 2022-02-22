@@ -2,7 +2,7 @@
 
 ## 🛠 technologies Used
 
-C, C++
+### C, C++
 
 ## Authors
 
