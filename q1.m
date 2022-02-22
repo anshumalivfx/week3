@@ -1,11 +1,6 @@
-//
-//  main.m
-//  Week3
-//
-//  Created by Anshumali Karna on 22/02/22.
-//
 
 #include <Foundation/Foundation.h>
+
 
 int solve(int a[], int low, int high, int n){
     if(low == high){
@@ -32,6 +27,8 @@ int solve(int a[], int low, int high, int n){
         return right;
     }
 }
+
+
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
